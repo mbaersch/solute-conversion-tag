@@ -113,7 +113,6 @@ const getUrl = require('getUrl');
 const getTimestampMillis = require('getTimestampMillis');
 const localStorage = require('localStorage');
 const Math = require('Math');
-const log = require('logToConsole');
 
 const pageUrl = getUrl();
 
@@ -148,27 +147,6 @@ if (data.tagType === "landing") {
 ___WEB_PERMISSIONS___
 
 [
-  {
-    "instance": {
-      "key": {
-        "publicId": "logging",
-        "versionId": "1"
-      },
-      "param": [
-        {
-          "key": "environments",
-          "value": {
-            "type": 1,
-            "string": "debug"
-          }
-        }
-      ]
-    },
-    "clientAnnotations": {
-      "isEditedByUser": true
-    },
-    "isRequired": true
-  },
   {
     "instance": {
       "key": {
@@ -293,4 +271,3 @@ ___NOTES___
 Created on 10.9.2024, 15:36:20
 
 
-  
