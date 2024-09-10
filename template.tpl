@@ -136,6 +136,7 @@ if (data.tagType === "landing") {
           "&oid=" + encodeUriComponent(data.orderId) + 
           "&factor=" + encodeUriComponent(data.factor||1) + 
           "&url=" + encodeUriComponent(parts[1]);
+      sendPixel(url, data.gtmOnSuccess, data.gtmOnFailure);      
     } else {
       localStorage.removeItem("soluteclid");
       data.gtmOnSuccess();
@@ -292,3 +293,4 @@ ___NOTES___
 Created on 10.9.2024, 15:36:20
 
 
+  
