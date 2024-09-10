@@ -1,5 +1,5 @@
 homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/solute-conversion-tag#readme"
 versions:
-  - sha: xxxxx
+  - sha: 594bcccb4103bed35f2390c6a34f253889c3742e
     changeNotes: initial release.
