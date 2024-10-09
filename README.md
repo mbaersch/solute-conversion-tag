@@ -4,7 +4,7 @@
 
 Track landingpages and conversions for Solute (solute.de).   
 
-[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/solute-conversion-tag) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/solute-conversion-tag) ![License](https://img.shelds.io/github/license/mbaersch/solute-conversion-tag
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/solute-conversion-tag) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/solute-conversion-tag) ![License](https://img.shelds.io/github/license/mbaersch/solute-conversion-tag)
 
 This template is an alternative to usinf Custom HTML tags for [Solute Conversion Tracking](https://www.solute.de/eng/support/shopsystems/conversiontracking/) deployment. Can be used in a GTM container without access to Custom HTML tags ([restricted tag types](https://developers.google.com/tag-platform/tag-manager/restrict)).  
 
